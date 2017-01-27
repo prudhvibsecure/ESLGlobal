@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/lessons_image"
+        android:layout_width="130dp"
+        android:layout_height="90dp"
+        android:contentDescription="@string/app_name"
+        android:padding="2dp"
+        android:scaleType="fitXY" />
+
+    <View
+        android:id="@+id/template_icon_"
+        android:layout_width="130dp"
+        android:layout_height="90dp"
+        android:background="@drawable/wrap_btn_rounded_corner_tg_like"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Title"
+        android:paddingTop="10dp"
+        android:id="@+id/tv_lestitle"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:maxLength="50"
+        android:textColor="@color/bs_dark_blue"
+        android:fontFamily="sans-serif-light"
+        android:layout_alignTop="@+id/lessons_image"
+        android:layout_toRightOf="@+id/lessons_image"
+        android:layout_toEndOf="@+id/lessons_image" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Description"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tv_lessdesc"
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        android:paddingTop="5dp"
+        android:maxLength="60"
+        android:layout_below="@+id/tv_lestitle"
+        android:layout_alignLeft="@+id/tv_lestitle"
+        android:layout_alignStart="@+id/tv_lestitle" />
+
+
+</RelativeLayout>

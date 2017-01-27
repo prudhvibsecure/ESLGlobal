@@ -1,0 +1,161 @@
+
+lregistration=http://eslglobal.education/eslglobal/signupmobile
+
+registration = https://safet.email/mobileapp/bsec_mail/signup/register
+
+addPin = https://safet.email/mobileapp/bsec_mail/signup/pin
+
+login=https://safet.email/mobileapp/bsec_mail/signin/login
+
+login1=https://safet.email/mobileapp/bsec_mail/signin/pin
+
+pwdrecover = https://safet.email/mobileapp/bsec_mail/signin/pwdrecover
+
+ispin = https://safet.email/mobileapp/recovery/recoverpin?email=(EMAIL)
+
+getmaillist = https://safet.email/mobileapp/bsec_mail/inbox/mails
+
+getsentmaillist = https://safet.email/mobileapp/bsec_mail/inbox/sent
+
+getdraftmaillist = https://safet.email/mobileapp/bsec_mail/draft/details
+
+gettrashmaillist = https://safet.email/mobileapp/bsec_mail/trash/details
+
+compose_v_m_p =https://safet.email/mobileapp/bsec_mail/inbox/message
+
+compose_mail = https://safet.email/mobileapp/compose/composemsg_v25/
+
+inboxTotrash = https://safet.email/mobileapp/bsec_mail/inbox/trash
+
+sentTotrash = https://safet.email/mobileapp/bsec_mail/inbox/trash
+
+draftsTotrash = https://safet.email/mobileapp/bsec_mail/draft/trash
+
+removeMailFromTrash = https://safet.email/mobileapp/bsec_mail/trash/trash
+
+moveMailFromTrash = https://safet.email/mobileapp/bsec_mail/trash/inbox
+
+reply_receiver = https://safet.email/mobileapp/bsec_mail/reply/reply
+
+searchInInbox = https://safet.email/mobileapp/bsec_mail/inbox/search
+
+searchInSent = https://safet.email/mobileapp/bsec_mail/inbox/searchsent
+
+searchInDraft = https://safet.email/mobileapp/bsec_mail/draft/search
+
+searchInTrash = https://safet.email/mobileapp/bsec_mail/trash/search
+
+searchContacts = https://safet.email/mobileapp/bsec_mail/inbox/contacts
+
+unsubUser = https://safet.email/mobileapp/bsec_mail/subscribe/user
+
+unblockUser = https://safet.email/mobileapp/bsec_mail/subscribe/unblock
+
+savedrafts = https://safet.email/mobileapp/drafts/savetodraft
+
+upload_file = https://bsecure.email/compose/uploadfile1
+
+restrict_mail = https://safet.email/mobileapp/bsec_mail/inbox/restrict
+
+allow_mail = https://safet.email/mobileapp/bsec_mail/inbox/allow
+
+filedownload = https://bsecure.email/assets/upload/avatar/
+
+recompose = https://safet.email/mobileapp/compose/recomposemsg/
+
+subcompose = https://safet.email/mobileapp/compose/subcomposemsg/
+
+profile_edit=https://safet.email/mobileapp/bsec_mail/profile/import
+
+profile_ret=https://safet.email/mobileapp/bsec_mail/profile/view
+
+change_pass=https://safet.email/mobileapp/bsec_mail/profile/password
+
+curr_versn=https://safet.email/mobileapp/inbox/currentversion
+
+refer_people=https://safet.email/mobileapp/bsec_mail/invite/email
+
+countrylist=https://safet.email/mobileapp/bsec_mail/state/country
+
+statelist=https://safet.email/mobileapp/bsec_mail/state/state
+
+citylist=https://safet.email/mobileapp/bsec_mail/state/city
+
+notify_user=https://safet.email/mobileapp/bsec_mail/profile/update
+
+notify_user_view=https://safet.email/mobileapp/bsec_mail/profile/get
+
+import_contacts=https://safet.email/mobileapp/bsec_mail/address/imports
+
+report_abs=https://safet.email/mobileapp/bsec_mail/report/index
+
+forward_msg=https://safet.email/mobileapp/forward/forwardmessage
+
+view_contacts=https://safet.email/mobileapp/bsec_mail/address/view
+
+view_wallet=https://safet.email/mobileapp/bsec_mail/payment/view
+
+wallet_add_bank=https://safet.email/mobileapp/bsec_mail/payment/add
+
+wallet_transfer=https://safet.email/mobileapp/bsec_mail/payment/send
+
+wallet_edit_detail=https://safet.email/mobileapp/bsec_mail/payment/get
+
+wallet_update_bank=https://safet.email/mobileapp/bsec_mail/payment/update
+
+w_trns_amt=https://safet.email/mobileapp/bsec_mail/payment/wallet
+
+single_cont=https://safet.email/mobileapp/bsec_mail/address/import
+
+queries= https://safet.email/mobileapp/bsec_mail/profile/send
+
+group_filedownload=https://bsecure.email/assets/upload/libraries/
+
+view_pro_mesg=https://safet.email/mobileapp/bsec_mail/inbox/display
+
+view_pro_mesg_pin=https://safet.email/mobileapp/bsec_mail/inbox/pin
+
+subscirption = https://safet.email/mobileapp/bsec_mail/payment/subscription
+
+redirect =https://bsecure.email/payment_bsecYLY2/paymentmobile_bsecure?email=(EMAIL)&country=(COUNTRY)
+
+user_guide=https://bsecure.email/bsecure/userguide_android
+
+aboutus=https://bsecure.email/bsecure/contact_bsecure_android
+
+editcontact_view=https://safet.email/mobileapp/bsec_mail/address/get
+
+editcontact_update=https://safet.email/mobileapp/bsec_mail/address/update
+
+contact_delete= https://safet.email/mobileapp/bsec_mail/address/delete
+
+unblock_list= https://safet.email/mobileapp/bsec_mail/subscribe/block
+
+folder_cr= https://safet.email/mobileapp/bsec_mail/folder/create
+
+view_folder= https://safet.email/mobileapp/bsec_mail/folder/view
+
+view_folder_msg= https://safet.email/mobileapp/bsec_mail/folder/message
+
+Search_folder= https://safet.email/mobileapp/bsec_mail/folder/search
+
+foldertotrash= https://safet.email/mobileapp/bsec_mail/folder/trash
+
+folderToInbox= https://safet.email/mobileapp/bsec_mail/folder/inbox
+
+InboxTofolder=https://safet.email/mobileapp/bsec_mail/folder/folder
+
+delete_folder= https://safet.email/mobileapp/bsec_mail/folder/delete
+
+update_folder= https://safet.email/mobileapp/bsec_mail/folder/update
+
+getForwarddetails = https://safet.email/mobileapp/bsec_mail/forward/message
+
+deletedraftattachment =https://bsecure.email/mobileapp/bsec_mail/compose/drafts
+
+mlessons=http://eslglobal.education/mobileapp/bsec_mail/eslglobal/lessons
+
+admin_acss=http://eslglobal.education/mobileapp/bsec_mail/eslglobal/chkstat
+
+#sharmastech@gmail.com
+#deep1234
